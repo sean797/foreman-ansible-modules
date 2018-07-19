@@ -1,8 +1,8 @@
 ---
 domain_name: "example.org"
-domain_dns_proxy: "centos7-devel.example.com"
+domain_dns_proxy: "{{ foreman_server_url | urlsplit('hostname') }}"
 domain_locations:
-  - 'Default Location'
+  - 'Test Location'
 domain_organizations:
-  - 'Default Organization'
+  - 'Test Organization'
 ...

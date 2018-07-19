@@ -9,39 +9,148 @@ interactions:
       User-Agent: [python-requests/2.18.4]
       content-type: [application/json]
     method: GET
-    uri: https://centos7-devel/katello/api/v2/ping
+    uri: https://centos7-katello-nightly.sean.example.com/api/v2/
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAA1NQqFYqLkksKS1WslLKz1bSUSpOLSrLTE4F8quVCkpzCkA0qoqU0qLEksz8vPhc
-        kJCRpVKtDlhlfGJpSQYh5YYmIOXJiXkpOakFmXkElZujKCfBirT8otTcxLz4ksTi7GKCnlCqra3l
-        AgA9DBMXDQEAAA==
+        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
+        vn379l/3KptUq5MAAA==
     headers:
-      apipie-checksum: [50f118e03d02e87d1e679bc02ac0bde0]
+      apipie-checksum: [69c110bd175e6e063e0125ceacf1bfdef1f9eaf7]
       cache-control: ['max-age=0, private, must-revalidate']
       connection: [Keep-Alive]
       content-encoding: [gzip]
-      content-length: ['124']
+      content-length: ['6226']
       content-security-policy: ['default-src ''self''; child-src ''self''; connect-src
           ''self'' ws: wss:; img-src ''self'' data: *.gravatar.com; script-src ''unsafe-eval''
           ''unsafe-inline'' ''self''; style-src ''unsafe-inline'' ''self''']
       content-type: [application/json; charset=utf-8]
-      date: ['Wed, 21 Mar 2018 16:37:13 GMT']
-      etag: [W/"97900c94032c161d1d9c91a37f938bfc-gzip"]
+      date: ['Mon, 20 Aug 2018 21:55:20 GMT']
+      etag: [W/"3137327ee7aa13474102cbaed36b308a-gzip"]
       foreman_api_version: ['2']
-      foreman_version: [1.16.0]
-      keep-alive: ['timeout=15, max=100']
-      server: [WEBrick/1.3.1 (Ruby/2.2.4/2015-12-16)]
-      set-cookie: [_session_id=467464f8c35e711450fe52106f26e1f1; path=/; HttpOnly]
-      strict-transport-security: [max-age=631152000; includeSubdomains]
+      foreman_version: [1.20.0-develop]
+      keep-alive: ['timeout=5, max=10000']
+      server: [Apache/2.4.6 (CentOS)]
+      set-cookie: [_session_id=2a572ce03ee453c07322073f345a4644; path=/; secure; HttpOnly;
+          SameSite=Lax]
+      status: [200 OK]
+      strict-transport-security: [max-age=631139040; includeSubdomains]
       vary: [Accept-Encoding]
-      via: [1.1 centos7-devel.anubis.example.com]
       x-content-type-options: [nosniff]
       x-download-options: [noopen]
       x-frame-options: [sameorigin]
       x-permitted-cross-domain-policies: [none]
-      x-request-id: [50901c2d-60f2-40c5-91a1-021bb837a1d6]
-      x-runtime: ['0.144307']
+      x-powered-by: [Phusion Passenger 4.0.53]
+      x-request-id: [06f90e6e-b127-4f42-991e-35b57b7a829b]
+      x-runtime: ['0.183178']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
 - request:
@@ -54,7 +163,7 @@ interactions:
       User-Agent: [python-requests/2.18.4]
       content-type: [application/json]
     method: GET
-    uri: https://centos7-devel/api/v2/locations
+    uri: https://centos7-katello-nightly.sean.example.com/api/v2/locations
   response:
     body:
       string: !!binary |
@@ -62,7 +171,7 @@ interactions:
         qroopPEvHrdY7QcZ6gxIQxGN0o1uO6XbvENL05c9LPaHL3MdGYDceYrc7JyZxo3zkpyrMnuakYpi
         c9wTwpBcDKzfvTjECb733uapAAAA
     headers:
-      apipie-checksum: [50f118e03d02e87d1e679bc02ac0bde0]
+      apipie-checksum: [69c110bd175e6e063e0125ceacf1bfdef1f9eaf7]
       cache-control: ['max-age=0, private, must-revalidate']
       connection: [Keep-Alive]
       content-encoding: [gzip]
@@ -71,22 +180,24 @@ interactions:
           ''self'' ws: wss:; img-src ''self'' data: *.gravatar.com; script-src ''unsafe-eval''
           ''unsafe-inline'' ''self''; style-src ''unsafe-inline'' ''self''']
       content-type: [application/json; charset=utf-8]
-      date: ['Wed, 21 Mar 2018 16:37:13 GMT']
-      etag: [W/"0f0334f232462713a51bd4b6f509a282-gzip"]
+      date: ['Mon, 20 Aug 2018 21:55:20 GMT']
+      etag: [W/"8a31a74958486f7925de46331b646d5e-gzip"]
       foreman_api_version: ['2']
-      foreman_version: [1.16.0]
-      keep-alive: ['timeout=15, max=100']
-      server: [WEBrick/1.3.1 (Ruby/2.2.4/2015-12-16)]
-      set-cookie: [_session_id=3e9e0c6d3e499bfbde5eb785c87e1b67; path=/; HttpOnly]
-      strict-transport-security: [max-age=631152000; includeSubdomains]
+      foreman_version: [1.20.0-develop]
+      keep-alive: ['timeout=5, max=10000']
+      server: [Apache/2.4.6 (CentOS)]
+      set-cookie: [_session_id=05c6d3a22fcac268fc6f6e8e4012b4aa; path=/; secure; HttpOnly;
+          SameSite=Lax]
+      status: [200 OK]
+      strict-transport-security: [max-age=631139040; includeSubdomains]
       vary: [Accept-Encoding]
-      via: [1.1 centos7-devel.anubis.example.com]
       x-content-type-options: [nosniff]
       x-download-options: [noopen]
       x-frame-options: [sameorigin]
       x-permitted-cross-domain-policies: [none]
-      x-request-id: [8a109804-4935-47b6-962e-1ee160109097]
-      x-runtime: ['0.062111']
+      x-powered-by: [Phusion Passenger 4.0.53]
+      x-request-id: [f2a24c37-f539-4468-ba6f-89efc2a10561]
+      x-runtime: ['0.042123']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
 - request:
@@ -99,57 +210,59 @@ interactions:
       User-Agent: [python-requests/2.18.4]
       content-type: [application/json]
     method: GET
-    uri: https://centos7-devel/api/v2/locations
+    uri: https://centos7-katello-nightly.sean.example.com/api/v2/locations
   response:
     body:
       string: !!binary |
-        H4sIAAAAAAAAA42PMWvDMBCFd/8KcbMDlgNNY8jUtaM7NcUo0pEYFMmczkMx/u89ywkloUO3e9+9
-        03uaCqWAIxsPjarLRaXxdAc6g8Gc8VcgdTdQV6sfDdmLaAjmiocjtJhYvUdruI/hCLC6IrF4JplF
-        nb5lDqP35aojOaQbEjLnE8I0ek6CPycwwcqzJHf5TEoRBu569wSWDndkCQ2j64wkQ13p10213dRa
-        6Zdmu2uqnfpo36CEcXD/sS1Re13CmvD4S1lzz/4v7jBZ6oescq/5q5iLH+5sUm54AQAA
+        H4sIAAAAAAAAA42PQYvCMBCF7/0VYc4V2oC7UvDk1aN7WpcSk0ELMSmT6UFK/7vTVFl28eBt3jdv
+        8l7GQingyMZDo3Q5qzScnqDOoDdn/BVI7QPoavGjIXsRDcFccXuEAyZW+2gNdzEcARZXJBbPKLOo
+        003mMHhfLjqSQ3ogIVM+IUyD5yT4ewQTrDxLcpfPpBRh4LZz/8Dc4YksoWF0rZFk0FW9WVWbla6U
+        rpv1uqk/1NdhByUMvXvHNkd9lrAE/P2kbLlj/4o7TJa6Pqtca/oppuIO1BS5gXcBAAA=
     headers:
-      apipie-checksum: [50f118e03d02e87d1e679bc02ac0bde0]
+      apipie-checksum: [69c110bd175e6e063e0125ceacf1bfdef1f9eaf7]
       cache-control: ['max-age=0, private, must-revalidate']
       connection: [Keep-Alive]
       content-encoding: [gzip]
-      content-length: ['222']
+      content-length: ['221']
       content-security-policy: ['default-src ''self''; child-src ''self''; connect-src
           ''self'' ws: wss:; img-src ''self'' data: *.gravatar.com; script-src ''unsafe-eval''
           ''unsafe-inline'' ''self''; style-src ''unsafe-inline'' ''self''']
       content-type: [application/json; charset=utf-8]
-      date: ['Wed, 21 Mar 2018 16:37:13 GMT']
-      etag: [W/"2f71c58936d12ec1d1efb485884cef6e-gzip"]
+      date: ['Mon, 20 Aug 2018 21:55:20 GMT']
+      etag: [W/"17cf622818a3d059914f8a06d2fe0762-gzip"]
       foreman_api_version: ['2']
-      foreman_version: [1.16.0]
-      keep-alive: ['timeout=15, max=100']
-      server: [WEBrick/1.3.1 (Ruby/2.2.4/2015-12-16)]
-      set-cookie: [_session_id=0c0d19e8f302a51330340918d48d9821; path=/; HttpOnly]
-      strict-transport-security: [max-age=631152000; includeSubdomains]
+      foreman_version: [1.20.0-develop]
+      keep-alive: ['timeout=5, max=10000']
+      server: [Apache/2.4.6 (CentOS)]
+      set-cookie: [_session_id=d8ab2e9a5d5efeca4b51adda21a3b9c9; path=/; secure; HttpOnly;
+          SameSite=Lax]
+      status: [200 OK]
+      strict-transport-security: [max-age=631139040; includeSubdomains]
       vary: [Accept-Encoding]
-      via: [1.1 centos7-devel.anubis.example.com]
       x-content-type-options: [nosniff]
       x-download-options: [noopen]
       x-frame-options: [sameorigin]
       x-permitted-cross-domain-policies: [none]
-      x-request-id: [8555d7b0-1079-4097-8935-df56eedb984e]
-      x-runtime: ['0.065471']
+      x-powered-by: [Phusion Passenger 4.0.53]
+      x-request-id: [bfb5fe99-35e8-4453-9f8c-c0091ed60dfd]
+      x-runtime: ['0.045464']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
 - request:
-    body: !!python/unicode '{"location": {"parent_id": 91, "name": "sub"}}'
+    body: !!python/unicode '{"location": {"parent_id": 7, "name": "sub"}}'
     headers:
       Accept: ['*/*']
       Accept-Encoding: ['gzip, deflate']
       Connection: [keep-alive]
-      Content-Length: ['46']
+      Content-Length: ['45']
       User-Agent: [python-requests/2.18.4]
       content-type: [application/json]
     method: POST
-    uri: https://centos7-devel/api/v2/locations
+    uri: https://centos7-katello-nightly.sean.example.com/api/v2/locations
   response:
-    body: {string: !!python/unicode '{"select_all_types":["ProvisioningTemplate","Hostgroup"],"description":null,"created_at":"2018-03-21
-        16:37:13 UTC","updated_at":"2018-03-21 16:37:13 UTC","ancestry":"91","parent_id":91,"parent_name":"Test
-        Location","id":92,"name":"sub","title":"Test Location/sub","users":[],"smart_proxies":[],"subnets":[],"compute_resources":[],"media":[],"config_templates":[{"id":1,"name":"PXELinux
+    body: {string: !!python/unicode '{"select_all_types":["ProvisioningTemplate","Hostgroup"],"description":null,"created_at":"2018-08-20
+        21:55:20 UTC","updated_at":"2018-08-20 21:55:20 UTC","ancestry":"7","parent_id":7,"parent_name":"Test
+        Location","id":8,"name":"sub","title":"Test Location/sub","users":[],"smart_proxies":[],"subnets":[],"compute_resources":[],"media":[],"config_templates":[{"id":1,"name":"PXELinux
         global default","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":2,"name":"PXEGrub
         global default","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":3,"name":"PXEGrub2
         global default","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":4,"name":"PXELinux
@@ -158,9 +271,7 @@ interactions:
         default local boot","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":7,"name":"PXELinux
         default memdisk","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":8,"name":"PXELinux
         chain iPXE","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":9,"name":"PXELinux
-        chain iPXE UNDI","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":19,"name":"CoreOS
-        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":20,"name":"CoreOS
-        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":10,"name":"Alterator
+        chain iPXE UNDI","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":10,"name":"Alterator
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":11,"name":"Alterator
         default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":12,"name":"Alterator
         default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":13,"name":"Atomic
@@ -169,61 +280,63 @@ interactions:
         SLES default","template_kind_id":5,"template_kind_name":"provision"},{"id":16,"name":"AutoYaST
         default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":17,"name":"AutoYaST
         default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":18,"name":"AutoYaST
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":73,"name":"pxelinux_chainload","template_kind_id":null,"template_kind_name":null},{"id":21,"name":"FreeBSD
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":27,"name":"Jumpstart
+        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":19,"name":"CoreOS
+        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":20,"name":"CoreOS
+        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":21,"name":"FreeBSD
         (mfsBSD) finish","template_kind_id":6,"template_kind_name":"finish"},{"id":22,"name":"FreeBSD
         (mfsBSD) provision","template_kind_id":5,"template_kind_name":"provision"},{"id":23,"name":"FreeBSD
         (mfsBSD) PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":24,"name":"Grubby
         default","template_kind_id":7,"template_kind_name":"script"},{"id":25,"name":"Jumpstart
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":26,"name":"Jumpstart
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":27,"name":"Jumpstart
-        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":28,"name":"Junos
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":28,"name":"Junos
         default SLAX","template_kind_id":5,"template_kind_name":"provision"},{"id":29,"name":"Junos
         default ZTP config","template_kind_id":9,"template_kind_name":"ZTP"},{"id":30,"name":"Junos
         default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":31,"name":"Kickstart
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":32,"name":"Kickstart
-        RHEL default","template_kind_id":5,"template_kind_name":"provision"},{"id":33,"name":"Kickstart
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":34,"name":"Kickstart
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":35,"name":"Kickstart
-        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":36,"name":"Kickstart
-        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":37,"name":"Kickstart
-        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":38,"name":"Kickstart
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":39,"name":"NX-OS
-        default POAP setup","template_kind_id":10,"template_kind_name":"POAP"},{"id":40,"name":"Preseed
-        default","template_kind_id":5,"template_kind_name":"provision"},{"id":41,"name":"Preseed
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":42,"name":"Preseed
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":43,"name":"Preseed
-        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":44,"name":"Preseed
-        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":45,"name":"Preseed
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":46,"name":"UserData
-        default","template_kind_id":8,"template_kind_name":"user_data"},{"id":47,"name":"WAIK
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":48,"name":"XenServer
-        default answerfile","template_kind_id":5,"template_kind_name":"provision"},{"id":49,"name":"XenServer
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":50,"name":"XenServer
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":51,"name":"alterator_pkglist","template_kind_id":null,"template_kind_name":null},{"id":52,"name":"bmc_nic_setup","template_kind_id":null,"template_kind_name":null},{"id":53,"name":"chef_client","template_kind_id":null,"template_kind_name":null},{"id":54,"name":"coreos_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":55,"name":"create_users","template_kind_id":null,"template_kind_name":null},{"id":56,"name":"epel","template_kind_id":null,"template_kind_name":null},{"id":57,"name":"fix_hosts","template_kind_id":null,"template_kind_name":null},{"id":58,"name":"freeipa_register","template_kind_id":null,"template_kind_name":null},{"id":59,"name":"http_proxy","template_kind_id":null,"template_kind_name":null},{"id":60,"name":"kickstart_ifcfg_bond_interface","template_kind_id":null,"template_kind_name":null},{"id":61,"name":"kickstart_ifcfg_bonded_interface","template_kind_id":null,"template_kind_name":null},{"id":62,"name":"kickstart_ifcfg_generic_interface","template_kind_id":null,"template_kind_name":null},{"id":63,"name":"kickstart_ifcfg_get_identifier_names","template_kind_id":null,"template_kind_name":null},{"id":64,"name":"kickstart_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":74,"name":"pxelinux_discovery","template_kind_id":null,"template_kind_name":null},{"id":75,"name":"redhat_register","template_kind_id":null,"template_kind_name":null},{"id":65,"name":"preseed_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":66,"name":"puppet.conf","template_kind_id":null,"template_kind_name":null},{"id":67,"name":"puppet_setup","template_kind_id":null,"template_kind_name":null},{"id":68,"name":"puppetlabs_repo","template_kind_id":null,"template_kind_name":null},{"id":69,"name":"pxegrub2_chainload","template_kind_id":null,"template_kind_name":null},{"id":70,"name":"pxegrub2_discovery","template_kind_id":null,"template_kind_name":null},{"id":71,"name":"pxegrub_chainload","template_kind_id":null,"template_kind_name":null},{"id":72,"name":"pxegrub_discovery","template_kind_id":null,"template_kind_name":null},{"id":76,"name":"remote_execution_ssh_keys","template_kind_id":null,"template_kind_name":null},{"id":77,"name":"saltstack_minion","template_kind_id":null,"template_kind_name":null},{"id":78,"name":"saltstack_setup","template_kind_id":null,"template_kind_name":null},{"id":92,"name":"Katello
-        Kickstart Default","template_kind_id":5,"template_kind_name":"provision"},{"id":93,"name":"Katello
-        Kickstart Default User Data","template_kind_id":8,"template_kind_name":"user_data"},{"id":94,"name":"Katello
-        Kickstart Default Finish","template_kind_id":6,"template_kind_name":"finish"},{"id":95,"name":"subscription_manager_registration","template_kind_id":null,"template_kind_name":null},{"id":96,"name":"Katello
-        Atomic Kickstart Default","template_kind_id":5,"template_kind_name":"provision"},{"id":97,"name":"Preseed
-        default finish clone","template_kind_id":6,"template_kind_name":"finish"}],"ptables":[{"os_family":"Suse","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"AutoYaST entire
-        SCSI disk","id":79},{"os_family":"Suse","created_at":"2017-09-27 13:47:34
-        UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"AutoYaST entire virtual
-        disk","id":80},{"os_family":"Suse","created_at":"2017-09-27 13:47:34 UTC","updated_at":"2017-09-27
-        13:47:34 UTC","name":"AutoYaST LVM","id":81},{"os_family":"Coreos","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"CoreOS default
-        fake","id":82},{"os_family":"Freebsd","created_at":"2017-09-27 13:47:34 UTC","updated_at":"2017-09-27
-        13:47:34 UTC","name":"FreeBSD","id":83},{"os_family":"Solaris","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"Jumpstart default","id":84},{"os_family":"Solaris","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"Jumpstart mirrored","id":85},{"os_family":"Junos","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"Junos default
-        fake","id":86},{"os_family":"Redhat","created_at":"2017-09-27 13:47:34 UTC","updated_at":"2017-09-27
-        13:47:34 UTC","name":"Kickstart default","id":87},{"os_family":"NXOS","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"NX-OS default
-        fake","id":88},{"os_family":"Debian","created_at":"2017-09-27 13:47:34 UTC","updated_at":"2017-09-27
-        13:47:34 UTC","name":"Preseed default","id":89},{"os_family":"Debian","created_at":"2017-09-27
-        13:47:34 UTC","updated_at":"2017-09-27 13:47:34 UTC","name":"Preseed custom
-        LVM","id":90},{"os_family":"Xenserver","created_at":"2017-09-27 13:47:34 UTC","updated_at":"2017-09-27
-        13:47:34 UTC","name":"XenServer default","id":91}],"provisioning_templates":[{"id":1,"name":"PXELinux
+        oVirt-RHVH","template_kind_id":5,"template_kind_name":"provision"},{"id":33,"name":"Kickstart
+        oVirt-RHVH PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":34,"name":"Kickstart
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":48,"name":"RancherOS
+        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":35,"name":"Kickstart
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":36,"name":"Kickstart
+        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":37,"name":"Kickstart
+        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":38,"name":"Kickstart
+        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":39,"name":"Kickstart
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":40,"name":"NX-OS
+        default POAP setup","template_kind_id":10,"template_kind_name":"POAP"},{"id":41,"name":"Preseed
+        default","template_kind_id":5,"template_kind_name":"provision"},{"id":78,"name":"pxegrub_discovery","template_kind_id":null,"template_kind_name":null},{"id":42,"name":"Preseed
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":43,"name":"Preseed
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":44,"name":"Preseed
+        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":45,"name":"Preseed
+        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":46,"name":"Preseed
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":47,"name":"RancherOS
+        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":49,"name":"UserData
+        default","template_kind_id":8,"template_kind_name":"user_data"},{"id":50,"name":"WAIK
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":51,"name":"XenServer
+        default answerfile","template_kind_id":5,"template_kind_name":"provision"},{"id":52,"name":"XenServer
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":53,"name":"XenServer
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":54,"name":"alterator_pkglist","template_kind_id":null,"template_kind_name":null},{"id":55,"name":"ansible_provisioning_callback","template_kind_id":null,"template_kind_name":null},{"id":56,"name":"ansible_tower_callback_script","template_kind_id":null,"template_kind_name":null},{"id":57,"name":"ansible_tower_callback_service","template_kind_id":null,"template_kind_name":null},{"id":58,"name":"bmc_nic_setup","template_kind_id":null,"template_kind_name":null},{"id":59,"name":"chef_client","template_kind_id":null,"template_kind_name":null},{"id":79,"name":"pxelinux_chainload","template_kind_id":null,"template_kind_name":null},{"id":60,"name":"coreos_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":61,"name":"create_users","template_kind_id":null,"template_kind_name":null},{"id":62,"name":"epel","template_kind_id":null,"template_kind_name":null},{"id":63,"name":"fix_hosts","template_kind_id":null,"template_kind_name":null},{"id":64,"name":"freeipa_register","template_kind_id":null,"template_kind_name":null},{"id":65,"name":"http_proxy","template_kind_id":null,"template_kind_name":null},{"id":66,"name":"kickstart_ifcfg_bond_interface","template_kind_id":null,"template_kind_name":null},{"id":67,"name":"kickstart_ifcfg_bonded_interface","template_kind_id":null,"template_kind_name":null},{"id":68,"name":"kickstart_ifcfg_generic_interface","template_kind_id":null,"template_kind_name":null},{"id":69,"name":"kickstart_ifcfg_get_identifier_names","template_kind_id":null,"template_kind_name":null},{"id":70,"name":"kickstart_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":71,"name":"preseed_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":72,"name":"puppet.conf","template_kind_id":null,"template_kind_name":null},{"id":73,"name":"puppet_setup","template_kind_id":null,"template_kind_name":null},{"id":74,"name":"puppetlabs_repo","template_kind_id":null,"template_kind_name":null},{"id":75,"name":"pxegrub2_chainload","template_kind_id":null,"template_kind_name":null},{"id":76,"name":"pxegrub2_discovery","template_kind_id":null,"template_kind_name":null},{"id":77,"name":"pxegrub_chainload","template_kind_id":null,"template_kind_name":null},{"id":80,"name":"pxelinux_discovery","template_kind_id":null,"template_kind_name":null},{"id":81,"name":"rancheros_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":82,"name":"redhat_register","template_kind_id":null,"template_kind_name":null},{"id":83,"name":"remote_execution_ssh_keys","template_kind_id":null,"template_kind_name":null},{"id":84,"name":"saltstack_minion","template_kind_id":null,"template_kind_name":null},{"id":85,"name":"saltstack_setup","template_kind_id":null,"template_kind_name":null}],"ptables":[{"os_family":"Solaris","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Jumpstart mirrored","id":92},{"os_family":"Junos","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Junos default
+        fake","id":93},{"os_family":"Redhat","created_at":"2018-08-15 09:35:59 UTC","updated_at":"2018-08-15
+        09:35:59 UTC","name":"Kickstart default","id":94},{"os_family":"Redhat","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Kickstart default
+        thin","id":95},{"os_family":"NXOS","created_at":"2018-08-15 09:35:59 UTC","updated_at":"2018-08-15
+        09:35:59 UTC","name":"NX-OS default fake","id":96},{"os_family":"Solaris","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Jumpstart default","id":91},{"os_family":"Suse","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"AutoYaST entire
+        SCSI disk","id":86},{"os_family":"Suse","created_at":"2018-08-15 09:35:59
+        UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"AutoYaST entire virtual
+        disk","id":87},{"os_family":"Suse","created_at":"2018-08-15 09:35:59 UTC","updated_at":"2018-08-15
+        09:35:59 UTC","name":"AutoYaST LVM","id":88},{"os_family":"Coreos","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"CoreOS default
+        fake","id":89},{"os_family":"Freebsd","created_at":"2018-08-15 09:35:59 UTC","updated_at":"2018-08-15
+        09:35:59 UTC","name":"FreeBSD","id":90},{"os_family":"Debian","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Preseed default","id":97},{"os_family":"Debian","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"Preseed custom
+        LVM","id":98},{"os_family":"Rancheros","created_at":"2018-08-15 09:35:59 UTC","updated_at":"2018-08-15
+        09:35:59 UTC","name":"RancherOS empty","id":99},{"os_family":"Xenserver","created_at":"2018-08-15
+        09:35:59 UTC","updated_at":"2018-08-15 09:35:59 UTC","name":"XenServer default","id":100}],"provisioning_templates":[{"id":1,"name":"PXELinux
         global default","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":2,"name":"PXEGrub
         global default","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":3,"name":"PXEGrub2
         global default","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":4,"name":"PXELinux
@@ -232,9 +345,7 @@ interactions:
         default local boot","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":7,"name":"PXELinux
         default memdisk","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":8,"name":"PXELinux
         chain iPXE","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":9,"name":"PXELinux
-        chain iPXE UNDI","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":19,"name":"CoreOS
-        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":20,"name":"CoreOS
-        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":10,"name":"Alterator
+        chain iPXE UNDI","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":10,"name":"Alterator
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":11,"name":"Alterator
         default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":12,"name":"Alterator
         default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":13,"name":"Atomic
@@ -243,67 +354,67 @@ interactions:
         SLES default","template_kind_id":5,"template_kind_name":"provision"},{"id":16,"name":"AutoYaST
         default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":17,"name":"AutoYaST
         default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":18,"name":"AutoYaST
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":73,"name":"pxelinux_chainload","template_kind_id":null,"template_kind_name":null},{"id":21,"name":"FreeBSD
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":27,"name":"Jumpstart
+        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":19,"name":"CoreOS
+        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":20,"name":"CoreOS
+        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":21,"name":"FreeBSD
         (mfsBSD) finish","template_kind_id":6,"template_kind_name":"finish"},{"id":22,"name":"FreeBSD
         (mfsBSD) provision","template_kind_id":5,"template_kind_name":"provision"},{"id":23,"name":"FreeBSD
         (mfsBSD) PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":24,"name":"Grubby
         default","template_kind_id":7,"template_kind_name":"script"},{"id":25,"name":"Jumpstart
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":26,"name":"Jumpstart
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":27,"name":"Jumpstart
-        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":28,"name":"Junos
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":28,"name":"Junos
         default SLAX","template_kind_id":5,"template_kind_name":"provision"},{"id":29,"name":"Junos
         default ZTP config","template_kind_id":9,"template_kind_name":"ZTP"},{"id":30,"name":"Junos
         default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":31,"name":"Kickstart
         default","template_kind_id":5,"template_kind_name":"provision"},{"id":32,"name":"Kickstart
-        RHEL default","template_kind_id":5,"template_kind_name":"provision"},{"id":33,"name":"Kickstart
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":34,"name":"Kickstart
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":35,"name":"Kickstart
-        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":36,"name":"Kickstart
-        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":37,"name":"Kickstart
-        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":38,"name":"Kickstart
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":39,"name":"NX-OS
-        default POAP setup","template_kind_id":10,"template_kind_name":"POAP"},{"id":40,"name":"Preseed
-        default","template_kind_id":5,"template_kind_name":"provision"},{"id":41,"name":"Preseed
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":42,"name":"Preseed
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":43,"name":"Preseed
-        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":44,"name":"Preseed
-        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":45,"name":"Preseed
-        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":46,"name":"UserData
-        default","template_kind_id":8,"template_kind_name":"user_data"},{"id":47,"name":"WAIK
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":48,"name":"XenServer
-        default answerfile","template_kind_id":5,"template_kind_name":"provision"},{"id":49,"name":"XenServer
-        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":50,"name":"XenServer
-        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":51,"name":"alterator_pkglist","template_kind_id":null,"template_kind_name":null},{"id":52,"name":"bmc_nic_setup","template_kind_id":null,"template_kind_name":null},{"id":53,"name":"chef_client","template_kind_id":null,"template_kind_name":null},{"id":54,"name":"coreos_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":55,"name":"create_users","template_kind_id":null,"template_kind_name":null},{"id":56,"name":"epel","template_kind_id":null,"template_kind_name":null},{"id":57,"name":"fix_hosts","template_kind_id":null,"template_kind_name":null},{"id":58,"name":"freeipa_register","template_kind_id":null,"template_kind_name":null},{"id":59,"name":"http_proxy","template_kind_id":null,"template_kind_name":null},{"id":60,"name":"kickstart_ifcfg_bond_interface","template_kind_id":null,"template_kind_name":null},{"id":61,"name":"kickstart_ifcfg_bonded_interface","template_kind_id":null,"template_kind_name":null},{"id":62,"name":"kickstart_ifcfg_generic_interface","template_kind_id":null,"template_kind_name":null},{"id":63,"name":"kickstart_ifcfg_get_identifier_names","template_kind_id":null,"template_kind_name":null},{"id":64,"name":"kickstart_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":74,"name":"pxelinux_discovery","template_kind_id":null,"template_kind_name":null},{"id":75,"name":"redhat_register","template_kind_id":null,"template_kind_name":null},{"id":65,"name":"preseed_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":66,"name":"puppet.conf","template_kind_id":null,"template_kind_name":null},{"id":67,"name":"puppet_setup","template_kind_id":null,"template_kind_name":null},{"id":68,"name":"puppetlabs_repo","template_kind_id":null,"template_kind_name":null},{"id":69,"name":"pxegrub2_chainload","template_kind_id":null,"template_kind_name":null},{"id":70,"name":"pxegrub2_discovery","template_kind_id":null,"template_kind_name":null},{"id":71,"name":"pxegrub_chainload","template_kind_id":null,"template_kind_name":null},{"id":72,"name":"pxegrub_discovery","template_kind_id":null,"template_kind_name":null},{"id":76,"name":"remote_execution_ssh_keys","template_kind_id":null,"template_kind_name":null},{"id":77,"name":"saltstack_minion","template_kind_id":null,"template_kind_name":null},{"id":78,"name":"saltstack_setup","template_kind_id":null,"template_kind_name":null},{"id":92,"name":"Katello
-        Kickstart Default","template_kind_id":5,"template_kind_name":"provision"},{"id":93,"name":"Katello
-        Kickstart Default User Data","template_kind_id":8,"template_kind_name":"user_data"},{"id":94,"name":"Katello
-        Kickstart Default Finish","template_kind_id":6,"template_kind_name":"finish"},{"id":95,"name":"subscription_manager_registration","template_kind_id":null,"template_kind_name":null},{"id":96,"name":"Katello
-        Atomic Kickstart Default","template_kind_id":5,"template_kind_name":"provision"},{"id":97,"name":"Preseed
-        default finish clone","template_kind_id":6,"template_kind_name":"finish"}],"domains":[],"realms":[],"environments":[],"hostgroups":[],"organizations":[],"parameters":[{}]}'}
+        oVirt-RHVH","template_kind_id":5,"template_kind_name":"provision"},{"id":33,"name":"Kickstart
+        oVirt-RHVH PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":34,"name":"Kickstart
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":48,"name":"RancherOS
+        provision","template_kind_id":5,"template_kind_name":"provision"},{"id":35,"name":"Kickstart
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":36,"name":"Kickstart
+        default PXEGrub","template_kind_id":2,"template_kind_name":"PXEGrub"},{"id":37,"name":"Kickstart
+        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":38,"name":"Kickstart
+        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":39,"name":"Kickstart
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":40,"name":"NX-OS
+        default POAP setup","template_kind_id":10,"template_kind_name":"POAP"},{"id":41,"name":"Preseed
+        default","template_kind_id":5,"template_kind_name":"provision"},{"id":78,"name":"pxegrub_discovery","template_kind_id":null,"template_kind_name":null},{"id":42,"name":"Preseed
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":43,"name":"Preseed
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":44,"name":"Preseed
+        default PXEGrub2","template_kind_id":3,"template_kind_name":"PXEGrub2"},{"id":45,"name":"Preseed
+        default iPXE","template_kind_id":4,"template_kind_name":"iPXE"},{"id":46,"name":"Preseed
+        default user data","template_kind_id":8,"template_kind_name":"user_data"},{"id":47,"name":"RancherOS
+        PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":49,"name":"UserData
+        default","template_kind_id":8,"template_kind_name":"user_data"},{"id":50,"name":"WAIK
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":51,"name":"XenServer
+        default answerfile","template_kind_id":5,"template_kind_name":"provision"},{"id":52,"name":"XenServer
+        default finish","template_kind_id":6,"template_kind_name":"finish"},{"id":53,"name":"XenServer
+        default PXELinux","template_kind_id":1,"template_kind_name":"PXELinux"},{"id":54,"name":"alterator_pkglist","template_kind_id":null,"template_kind_name":null},{"id":55,"name":"ansible_provisioning_callback","template_kind_id":null,"template_kind_name":null},{"id":56,"name":"ansible_tower_callback_script","template_kind_id":null,"template_kind_name":null},{"id":57,"name":"ansible_tower_callback_service","template_kind_id":null,"template_kind_name":null},{"id":58,"name":"bmc_nic_setup","template_kind_id":null,"template_kind_name":null},{"id":59,"name":"chef_client","template_kind_id":null,"template_kind_name":null},{"id":79,"name":"pxelinux_chainload","template_kind_id":null,"template_kind_name":null},{"id":60,"name":"coreos_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":61,"name":"create_users","template_kind_id":null,"template_kind_name":null},{"id":62,"name":"epel","template_kind_id":null,"template_kind_name":null},{"id":63,"name":"fix_hosts","template_kind_id":null,"template_kind_name":null},{"id":64,"name":"freeipa_register","template_kind_id":null,"template_kind_name":null},{"id":65,"name":"http_proxy","template_kind_id":null,"template_kind_name":null},{"id":66,"name":"kickstart_ifcfg_bond_interface","template_kind_id":null,"template_kind_name":null},{"id":67,"name":"kickstart_ifcfg_bonded_interface","template_kind_id":null,"template_kind_name":null},{"id":68,"name":"kickstart_ifcfg_generic_interface","template_kind_id":null,"template_kind_name":null},{"id":69,"name":"kickstart_ifcfg_get_identifier_names","template_kind_id":null,"template_kind_name":null},{"id":70,"name":"kickstart_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":71,"name":"preseed_networking_setup","template_kind_id":null,"template_kind_name":null},{"id":72,"name":"puppet.conf","template_kind_id":null,"template_kind_name":null},{"id":73,"name":"puppet_setup","template_kind_id":null,"template_kind_name":null},{"id":74,"name":"puppetlabs_repo","template_kind_id":null,"template_kind_name":null},{"id":75,"name":"pxegrub2_chainload","template_kind_id":null,"template_kind_name":null},{"id":76,"name":"pxegrub2_discovery","template_kind_id":null,"template_kind_name":null},{"id":77,"name":"pxegrub_chainload","template_kind_id":null,"template_kind_name":null},{"id":80,"name":"pxelinux_discovery","template_kind_id":null,"template_kind_name":null},{"id":81,"name":"rancheros_cloudconfig","template_kind_id":null,"template_kind_name":null},{"id":82,"name":"redhat_register","template_kind_id":null,"template_kind_name":null},{"id":83,"name":"remote_execution_ssh_keys","template_kind_id":null,"template_kind_name":null},{"id":84,"name":"saltstack_minion","template_kind_id":null,"template_kind_name":null},{"id":85,"name":"saltstack_setup","template_kind_id":null,"template_kind_name":null}],"domains":[],"realms":[],"environments":[],"hostgroups":[],"organizations":[],"hosts_count":0,"parameters":[{}]}'}
     headers:
-      apipie-checksum: [50f118e03d02e87d1e679bc02ac0bde0]
+      apipie-checksum: [69c110bd175e6e063e0125ceacf1bfdef1f9eaf7]
       cache-control: ['max-age=0, private, must-revalidate']
       connection: [Keep-Alive]
-      content-length: ['17914']
       content-security-policy: ['default-src ''self''; child-src ''self''; connect-src
           ''self'' ws: wss:; img-src ''self'' data: *.gravatar.com; script-src ''unsafe-eval''
           ''unsafe-inline'' ''self''; style-src ''unsafe-inline'' ''self''']
       content-type: [application/json; charset=utf-8]
-      date: ['Wed, 21 Mar 2018 16:37:15 GMT']
-      etag: [W/"83e10e9cf466a8a134d099552876c064"]
+      date: ['Mon, 20 Aug 2018 21:55:20 GMT']
+      etag: [W/"e09a236700a7a068d5f3618f7d8a6ade"]
       foreman_api_version: ['2']
-      foreman_version: [1.16.0]
-      keep-alive: ['timeout=15, max=100']
-      server: [WEBrick/1.3.1 (Ruby/2.2.4/2015-12-16)]
-      set-cookie: [request_method=POST; path=/, _session_id=ab1a92439699b387289a15d6bc55af20;
-          path=/; HttpOnly]
-      strict-transport-security: [max-age=631152000; includeSubdomains]
-      via: [1.1 centos7-devel.anubis.example.com]
+      foreman_version: [1.20.0-develop]
+      keep-alive: ['timeout=5, max=10000']
+      server: [Apache/2.4.6 (CentOS)]
+      set-cookie: [request_method=POST; path=/; secure; HttpOnly; SameSite=Lax, _session_id=d03c26e0e074d77ac0185b200ee5a08c;
+          path=/; secure; HttpOnly; SameSite=Lax]
+      status: [201 Created]
+      strict-transport-security: [max-age=631139040; includeSubdomains]
       x-content-type-options: [nosniff]
       x-download-options: [noopen]
       x-frame-options: [sameorigin]
       x-permitted-cross-domain-policies: [none]
-      x-request-id: [c6df3a13-5b9d-44e2-81bc-c9569d300d3f]
-      x-runtime: ['1.566474']
+      x-powered-by: [Phusion Passenger 4.0.53]
+      x-request-id: [8d8bd6fd-afdf-4d6e-8191-a30745a362cc]
+      x-runtime: ['0.620773']
       x-xss-protection: [1; mode=block]
     status: {code: 201, message: Created}
 - request:
@@ -315,65 +426,68 @@ interactions:
       User-Agent: [python-requests/2.18.4]
       content-type: [application/json]
     method: GET
-    uri: https://centos7-devel/api/v2/locations/92
+    uri: https://centos7-katello-nightly.sean.example.com/api/v2/locations/8
   response:
     body:
       string: !!binary |
-        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
+        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
     headers:
-      apipie-checksum: [50f118e03d02e87d1e679bc02ac0bde0]
+      apipie-checksum: [69c110bd175e6e063e0125ceacf1bfdef1f9eaf7]
       cache-control: ['max-age=0, private, must-revalidate']
       connection: [Keep-Alive]
       content-encoding: [gzip]
-      content-length: ['1651']
+      content-length: ['1700']
       content-security-policy: ['default-src ''self''; child-src ''self''; connect-src
           ''self'' ws: wss:; img-src ''self'' data: *.gravatar.com; script-src ''unsafe-eval''
           ''unsafe-inline'' ''self''; style-src ''unsafe-inline'' ''self''']
       content-type: [application/json; charset=utf-8]
-      date: ['Wed, 21 Mar 2018 16:37:15 GMT']
-      etag: [W/"83e10e9cf466a8a134d099552876c064-gzip"]
+      date: ['Mon, 20 Aug 2018 21:55:21 GMT']
+      etag: [W/"61582fccb26e58a5bbdbed4ed3a9f8ba-gzip"]
       foreman_api_version: ['2']
-      foreman_version: [1.16.0]
-      keep-alive: ['timeout=15, max=100']
-      server: [WEBrick/1.3.1 (Ruby/2.2.4/2015-12-16)]
-      set-cookie: [_session_id=184e55129e89fe5c909789fb0d1c68ce; path=/; HttpOnly]
-      strict-transport-security: [max-age=631152000; includeSubdomains]
+      foreman_version: [1.20.0-develop]
+      keep-alive: ['timeout=5, max=10000']
+      server: [Apache/2.4.6 (CentOS)]
+      set-cookie: [_session_id=fd8ecae39b6f64c905d6187af155c12c; path=/; secure; HttpOnly;
+          SameSite=Lax]
+      status: [200 OK]
+      strict-transport-security: [max-age=631139040; includeSubdomains]
       vary: [Accept-Encoding]
-      via: [1.1 centos7-devel.anubis.example.com]
       x-content-type-options: [nosniff]
       x-download-options: [noopen]
       x-frame-options: [sameorigin]
       x-permitted-cross-domain-policies: [none]
-      x-request-id: [4570fbee-3062-4d46-bf1c-df2eb587e807]
-      x-runtime: ['0.196745']
+      x-powered-by: [Phusion Passenger 4.0.53]
+      x-request-id: [86043980-f829-4700-a285-4eb6c147779a]
+      x-runtime: ['0.171941']
       x-xss-protection: [1; mode=block]
     status: {code: 200, message: OK}
 version: 1
