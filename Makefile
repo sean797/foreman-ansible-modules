@@ -57,6 +57,14 @@ test-setup: test/test_playbooks/server_vars.yml
 test/test_playbooks/server_vars.yml:
 	cp test/test_playbooks/server_vars.yml.example test/test_playbooks/server_vars.yml
 
+docker-setup:
+	$(eval container_id := $(shell sudo docker run --detach --privileged -v /sys/fs/cgroup:/sys/fs/cgroup:ro --volume="${PWD}":/foreman-ansible-modules:ro --hostname ${SCENARIO}.example.com -p 443:443/tcp centos-7:ansible))
+	sudo docker exec "${container_id}" ansible-galaxy install sean797.foreman_installer
+	sudo docker exec "${container_id}" env ANSIBLE_FORCE_COLOR=1 ansible-playbook -v /foreman-ansible-modules/travis/${SCENARIO}.yml || true
+
+docker-test:
+	ansible-playbook -e "foreman_server_url=https://localhost" test/test_playbooks/organization.yml	
+
 FORCE:
 
 .PHONY: help debug lint test setup debug-setup test-setup FORCE

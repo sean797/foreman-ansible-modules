@@ -1,7 +1,25 @@
+sudo: required
 language: python
 python:
   - "2.7"
   - "3.5"
   - "3.6"
-install: make test-setup
-script: make lint sanity test
+env:
+#  - TESTS="lint sanity test" SETUP="test-setup"
+  - TESTS="docker-test" SETUP="test-setup docker-setup" SCENARIO=katello
+
+services:
+  - docker
+
+before_install:
+  - 'if [ "$TESTS" == "docker-test" ]; then sudo docker pull centos:7 ; fi'
+  - 'if [ "$TESTS" == "docker-test" ]; then sudo docker build --no-cache --rm --file=travis/Dockerfile.${SCENARIO} --tag=centos-7:ansible travis ; fi'
+
+install:
+  - make ${SETUP}
+
+script:
+  - make ${TESTS}
+
+notifications:
+  email: false
